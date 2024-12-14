@@ -1,0 +1,1 @@
+D:\Coding\ClipShare\ClipShare.csproj;x86

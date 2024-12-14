@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClipShare (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ClipShare (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
