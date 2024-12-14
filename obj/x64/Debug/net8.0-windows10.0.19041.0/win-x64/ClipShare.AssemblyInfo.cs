@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClipShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ad7032c9f3ec32668b75364b7f6642b5cada9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClipShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClipShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
